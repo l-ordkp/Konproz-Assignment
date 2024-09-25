@@ -1,4 +1,3 @@
-
 from query import load_faiss_index, retrieve
 from aug import get_gemini_response
 
